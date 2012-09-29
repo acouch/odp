@@ -6,7 +6,7 @@ core = 7.x
 ;--------------------
 
 projects[admin][subdir] = contrib
-projects[boxex][subdir] = contrib
+projects[boxes][subdir] = contrib
 projects[context][subdir] = contrib
 projects[ctools][subdir] = contrib
 projects[diff][subdir] = contrib
