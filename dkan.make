@@ -5,7 +5,7 @@ core = 7.x
 ; Contrib
 ;--------------------
 
-projects[admin][subdir] = contrib
+projects[admin_menu][subdir] = contrib
 projects[boxes][subdir] = contrib
 projects[context][subdir] = contrib
 projects[ctools][subdir] = contrib
@@ -24,6 +24,17 @@ projects[rubik][version] = 4.0-beta8
 ;--------------------
 ; Custom
 ;--------------------
+
+projects[recline][subdir] = contrib
+
+;--------------------
+; Libraries
+;--------------------
+
+libraries[jquery.cycle][type] = libraries
+libraries[jquery.cycle][download][type] = git
+libraries[jquery.cycle][download][branch] = master
+libraries[jquery.cycle][download][url] = "git://github.com/acouch/recline.git"
 
 ;--------------------
 ; Development
