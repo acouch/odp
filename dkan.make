@@ -1,21 +1,24 @@
 api = 2
 core = 7.x
 
-; Build Kit 7.x-2.x HEAD
-includes[] = http://drupalcode.org/project/buildkit.git/blob_plain/refs/heads/7.x-2.x:/drupal-org.make
-
 ;--------------------
-; Build Kit overrides
+; Contrib
 ;--------------------
 
-projects[tao][subdir] = contrib
-projects[rubik][subdir] = contrib
+projects[admin][subdir] = contrib
+projects[context][subdir] = contrib
+projects[ctools][subdir] = contrib
+projects[diff][subdir] = contrib
+projects[features][subdir] = contrib
+projects[strongarm][subdir] = contrib
+projects[views][subdir] = contrib
 
 ;--------------------
-; Additional Contrib
+; Themes
 ;--------------------
 
-projects[boxes][subdir] = contrib
+projects[tao][version] = 3.0-beta4
+projects[rubik][version] = 4.0-beta8
 
 ;--------------------
 ; Custom
@@ -26,3 +29,4 @@ projects[boxes][subdir] = contrib
 ;--------------------
 
 projects[coder][subdir] = contrib
+projects[devel][subdir] = contrib
