@@ -15,7 +15,6 @@ dependencies[] = taxonomy
 ; Contrib
 dependencies[] = admin
 dependencies[] = boxes
-dependencies[] = openid
 dependencies[] = coder
 dependencies[] = context
 dependencies[] = context_ui
@@ -23,7 +22,6 @@ dependencies[] = ctools
 dependencies[] = devel
 dependencies[] = diff
 dependencies[] = features
-dependencies[] = markdown
 dependencies[] = rubik
 dependencies[] = strongarm
 dependencies[] = views
