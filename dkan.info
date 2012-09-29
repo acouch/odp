@@ -28,3 +28,6 @@ dependencies[] = rubik
 dependencies[] = strongarm
 dependencies[] = views
 dependencies[] = views_ui
+
+; DKAN
+dependencies[] = dkan_test
