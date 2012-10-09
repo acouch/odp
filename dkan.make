@@ -11,9 +11,12 @@ projects[book_made_simple][subdir] = contrib
 projects[context][subdir] = contrib
 projects[ctools][subdir] = contrib
 projects[diff][subdir] = contrib
+projects[entity][subdir] = contrib
 projects[features][subdir] = contrib
 projects[libraries][subdir] = contrib
 projects[og][subdir] = contrib
+projects[rules][subdir] = contrib
+projects[select_or_other][subdir] = contrib
 projects[strongarm][subdir] = contrib
 projects[views][subdir] = contrib
 
