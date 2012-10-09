@@ -7,13 +7,15 @@ core = 7.x
 
 projects[admin_menu][subdir] = contrib
 projects[boxes][subdir] = contrib
+projects[book_made_simple][subdir] = contrib
 projects[context][subdir] = contrib
 projects[ctools][subdir] = contrib
 projects[diff][subdir] = contrib
 projects[features][subdir] = contrib
+projects[libraries][subdir] = contrib
+projects[og][subdir] = contrib
 projects[strongarm][subdir] = contrib
 projects[views][subdir] = contrib
-projects[libraries][subdir] = contrib
 
 ;--------------------
 ; Themes
