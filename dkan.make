@@ -13,6 +13,7 @@ projects[diff][subdir] = contrib
 projects[features][subdir] = contrib
 projects[strongarm][subdir] = contrib
 projects[views][subdir] = contrib
+projects[libraries][subdir] = contrib
 
 ;--------------------
 ; Themes
@@ -36,6 +37,10 @@ libraries[jquery.cycle][download][type] = git
 libraries[jquery.cycle][download][branch] = master
 libraries[jquery.cycle][download][url] = "git://github.com/acouch/recline.git"
 
+libraries[recline][type] = libraries
+libraries[recline][download][type] = git
+libraries[recline][download][branch] = master
+libraries[recline][download][url] = "git://github.com/acouch/recline.git"
 ;--------------------
 ; Development
 ;--------------------

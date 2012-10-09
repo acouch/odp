@@ -4,6 +4,4 @@
  * Implements hook_install().
  */
 function dkan_install() {
-  theme_enable(array('rubik'));
-  variable_set('theme_default', 'rubik');
 }

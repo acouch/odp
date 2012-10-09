@@ -1,4 +1,0 @@
-name = DKAN Test
-description = Testing dkan.
-package = DKAN
-core = 7.x
