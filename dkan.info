@@ -33,4 +33,3 @@ dependencies[] = views_ui
 dependencies[] = recline
 
 ; DKAN
-dependencies[] = dkan_test
