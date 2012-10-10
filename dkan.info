@@ -26,6 +26,7 @@ dependencies[] = ctools
 dependencies[] = devel
 dependencies[] = diff
 dependencies[] = entity
+dependencies[] = entity_token
 dependencies[] = features
 dependencies[] = libraries
 dependencies[] = og
@@ -42,7 +43,7 @@ dependencies[] = views_ui
 dependencies[] = recline
 
 ; DKAN
-
+dependencies[] = dkan_forms
 
 ; Information added by drush on 2012-10-09
 version = "unknown"
