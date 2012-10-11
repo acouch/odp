@@ -17,6 +17,7 @@ dependencies[] = taxonomy
 
 ; Contrib
 dependencies[] = admin_menu
+dependencies[] = active_tags
 dependencies[] = boxes
 dependencies[] = book_made_simple
 dependencies[] = coder
@@ -24,6 +25,7 @@ dependencies[] = context
 dependencies[] = context_ui
 dependencies[] = ctools
 dependencies[] = devel
+dependencies[] = delta
 dependencies[] = diff
 dependencies[] = entity
 dependencies[] = entity_token
