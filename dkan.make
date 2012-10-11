@@ -27,6 +27,7 @@ projects[views][subdir] = contrib
 ;--------------------
 
 projects[omega][version] = 3.1
+projects[omega][version] = contrib
 
 ;--------------------
 ; Custom
