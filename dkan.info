@@ -30,7 +30,11 @@ dependencies[] = diff
 dependencies[] = entity
 dependencies[] = entity_token
 dependencies[] = features
+dependencies[] = field_group
+dependencies[] = link_iframe_formatter
 dependencies[] = libraries
+dependencies[] = link
+dependencies[] = multistep
 dependencies[] = og
 dependencies[] = og_access
 dependencies[] = og_ui
@@ -46,9 +50,6 @@ dependencies[] = recline
 
 ; DKAN
 dependencies[] = dkan_forms
-
-; Information added by drush on 2012-10-09
-version = "unknown"
-project = "dkan"
-datestamp = "1349809345"
-
+dependencies[] = dkan_content_types
+dependencies[] = dkan_menu
+dependencies[] = dkan_views
