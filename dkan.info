@@ -31,7 +31,6 @@ dependencies[] = entity
 dependencies[] = entity_token
 dependencies[] = features
 dependencies[] = field_group
-dependencies[] = link_iframe_formatter
 dependencies[] = libraries
 dependencies[] = link
 dependencies[] = multistep
@@ -46,6 +45,5 @@ dependencies[] = views
 dependencies[] = views_ui
 
 ; Open data
-dependencies[] = recline
 
 ; DKAN
