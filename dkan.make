@@ -18,8 +18,6 @@ projects[features][subdir] = contrib
 projects[field_group][subdir] = contrib
 projects[libraries][subdir] = contrib
 projects[link][subdir] = contrib
-projects[iframe_link_formatter][subdir] = contrib
-projects[iframe_link_formatter][patch][1438682] = http://drupal.org/files/iframe_link_formatter-1438682-all-url-components.patch
 projects[multistep][subdir] = contrib
 projects[og][subdir] = contrib
 projects[rules][subdir] = contrib
@@ -44,15 +42,3 @@ projects[recline][subdir] = contrib
 ; Libraries
 ;--------------------
 
-libraries[recline][type] = libraries
-libraries[recline][download][type] = git
-libraries[recline][download][branch] = master
-libraries[recline][download][url] = "git://github.com/acouch/recline.git"
-
-;--------------------
-; Development
-;--------------------
-
-projects[coder][subdir] = contrib
-projects[devel][subdir] = contrib
-projects[omega_tools][subdir] = contrib
