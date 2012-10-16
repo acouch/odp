@@ -44,10 +44,6 @@ projects[recline][subdir] = contrib
 ; Libraries
 ;--------------------
 
-libraries[recline][type] = libraries
-libraries[recline][download][type] = git
-libraries[recline][download][branch] = master
-libraries[recline][download][url] = git://github.com/acouch/recline.git
 
 ;--------------------
 ; Development
